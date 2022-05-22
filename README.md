@@ -6,17 +6,18 @@ Download link: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
 Environment: kaggle
 
 Libraries Used:
-1. pandas
 
-2.numpy
+1.Pandas
 
-3.matplotlib
+2.Numpy
 
-4.keras
+3.Matplotlib
 
-5.tensorflow
+4.Keras
 
-6.scikit-learn
+5.Tensorflow
+
+6.Scikit-learn
 
 7.Neural Network
 
